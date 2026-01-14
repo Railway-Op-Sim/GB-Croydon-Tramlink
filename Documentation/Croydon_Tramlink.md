@@ -30,7 +30,7 @@ Standard service patterns are as follows (Daytime/Evening):
 ## Operational Tips
 
 - Operation at 2x speed is just about possible throughout the day, although it may be preferable to operate on normal speed to learn the service patterns.
-- Headcodes consist of a letter for the destination, then three numbers which increment with throughout the day:
+- Headcodes consist of a letter for the destination, then three numbers which increment throughout the day:
     - A: New Addington
     - B: Beckenham Junction
     - C: Centrale / Croydon Loop
